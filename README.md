@@ -7,4 +7,4 @@ Praticando POO e começando a aprender desenvolvimento web com MVC.
 
 ![Mateus Nhoato's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusnhoato&count_private=true&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnhoato)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnhoato&hide=Smalltalk)
