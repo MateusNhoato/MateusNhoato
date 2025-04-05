@@ -1,5 +1,5 @@
 # Sobre mim 
-Programador júnior dotnet.
+Programador dotnet.
  
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/mateus-nhoato/)
 
